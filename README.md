@@ -1,4 +1,4 @@
 # phys-exp
 
-## experimenting with c# opengl and physics
+### experimenting with c# opengl and physics
 
