@@ -20,6 +20,8 @@ class Program
         window.Load += OnLoad;
         window.Update += OnUpdate;
         window.Render += OnRender;
+
+        window.Run();
     }
 
     static void OnLoad()
